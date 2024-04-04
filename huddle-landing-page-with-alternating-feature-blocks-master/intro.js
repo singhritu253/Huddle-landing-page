@@ -1,0 +1,1 @@
+ alert("welcome to huddle landing page.");
